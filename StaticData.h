@@ -13,6 +13,14 @@
 #if !defined(_STATICDATA_H)
 #define _STATICDATA_H
 
+#include<string>
+#include "cocos2d.h"
+using namespace std;
+using cocos2d::CCDictionary;
+using cocos2d::CCPointFromString;
+using cocos2d::CCRectFromString;
+using cocos2d::CCSizeFromString;
+
 
 class StaticData {
 public:
