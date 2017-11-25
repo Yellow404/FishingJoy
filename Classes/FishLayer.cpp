@@ -22,7 +22,7 @@ bool FishLayer::init()
 			_fishes->addObject(fish);
 		}
 		srand((unsigned)time(0));
-		this->schedule(schedule_selector(FishLayer::addFish), 1.0f);
+		this->schedule(schedule_selector(FishLayer::addFish), 3.0f);
 		return true;
 	} while (0);
 	return false;
