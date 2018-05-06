@@ -11,7 +11,7 @@
 <XPD:BODY>
 <XPD:OBJ name="DocumentElement" type="UMLProject" guid="SMn/AFQDMUuMLmCpQJ8FYwAA">
 <XPD:ATTR name="Title" type="string">211506359</XPD:ATTR>
-<XPD:ATTR name="Author" type="string">丁俊荣</XPD:ATTR>
+<XPD:ATTR name="Author" type="string">d</XPD:ATTR>
 <XPD:ATTR name="#OwnedElements" type="integer">5</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLModel" guid="vk1cGBz7aEeV+6BzLto1yAAA">
 <XPD:ATTR name="Name" type="string">Use Case Model</XPD:ATTR>
